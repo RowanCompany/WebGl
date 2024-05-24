@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "383661867528",
+    "firebase_url": "https://unitygames-2b625-default-rtdb.firebaseio.com",
+    "project_id": "unitygames-2b625",
+    "storage_bucket": "unitygames-2b625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383661867528:android:779b078163dad4ab2147bd",
+        "android_client_info": {
+          "package_name": "com.Rowan.AssertBundleUploader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA72TEk61KeM75zUYYKN-NKjnRdXYUbiNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383661867528:android:c72ae67894428a782147bd",
+        "android_client_info": {
+          "package_name": "com.Rowan.PubVersionManager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA72TEk61KeM75zUYYKN-NKjnRdXYUbiNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383661867528:android:a439c28ca544e0e82147bd",
+        "android_client_info": {
+          "package_name": "com.Rowan.UnityGameAddLog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA72TEk61KeM75zUYYKN-NKjnRdXYUbiNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
